@@ -1,0 +1,12 @@
+{
+    "name": "Savage Worlds Dice Roller (IP)",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "action": {
+      "title": "Savage Dice Roller",
+      "icon": "/icon.svg",
+      "popover": "https://immaterialplane.com/apps/swdr/",
+      "height": 600,
+      "width": 400
+    }
+  }
